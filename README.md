@@ -27,10 +27,10 @@ This project has been completed in 5 steps :-
     customerID
 # 4) Clustering and 5) segmentation
     * In this section, the optimum number of clusters were chosen via elbow method It was found that
-4 clusters would be the most optimum.
+      4 clusters would be the most optimum.
     * A KMeans model with 4 clusters was developed.
     * Each customer ID was clustered into one of the 4 clusters. and named based on their Score
-Champions , Loyal , Potential , Requires Attention
+      Champions , Loyal , Potential , Requires Attention.
 # 6) Data Data visulization :- Ploted some pie chart and barchart for further
      analysis
     * On the basis of this analysis, the business can offer attractive deals to its
