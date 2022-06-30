@@ -31,10 +31,9 @@ This project has been completed in 5 steps :-
     * A KMeans model with 4 clusters was developed.
     * Each customer ID was clustered into one of the 4 clusters. and named based on their Score
       Champions , Loyal , Potential , Requires Attention.
-# 6) Data Data visulization :- Ploted some pie chart and barchart for further
-     analysis
-    * On the basis of this analysis, the business can offer attractive deals to its
-    Potential and low value customers and they can also treat their high value
-    customers with special business offers such as loyalty points.
-    * they can even make spechial day on weekday's as monday to boost their
-     revenue on monday
+# 6) Data Data visulization
+      * Ploted some pie chart and barchart for further analysis
+      * On the basis of this analysis, the business can offer attractive deals to its Potential and low value customers and they can also treat their high value
+         customers with special business offers such as loyalty points.
+      * they can even make spechial day on weekday's as monday to boost their revenue on monday
+     
