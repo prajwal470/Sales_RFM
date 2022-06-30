@@ -13,7 +13,8 @@ This project has been completed in 5 steps :-
 3. Data Transformation
 4. Clustering and segmentation
 5. Data visulization
-# 1) data Cleaning :- the data set was clean we given
+# 1) data Cleaning 
+    * the data set was clean we given
 # 2) Exploratory Data Analysis (EDA)
      *156 is the Highest Ordes from a single person
      * 34847 is the highest revenue from a single person
